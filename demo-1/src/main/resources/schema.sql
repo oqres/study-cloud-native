@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS CUSTOMERS(id int primary key auto_increment, email varchar(255))
