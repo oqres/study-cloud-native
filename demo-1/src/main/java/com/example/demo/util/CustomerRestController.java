@@ -19,6 +19,13 @@ public class CustomerRestController {
 	}
 	
 	
+	@GetMapping("/hello")
+	public String hello(){
+		return "HELLO GIT";
+	}
+	
+	
+	
 	
 	
 	
